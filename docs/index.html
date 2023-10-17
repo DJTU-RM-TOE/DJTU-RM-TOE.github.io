@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>Document</title>
@@ -8,15 +9,29 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 </head>
+
+<body>
+  <nav>
+    <a href="/">首页</a>
+    <a>关于我们</a>
+    <a href="https://github.com/DJTU-RM-TOE">github主页</a>
+  </nav>
+  <div id="app"></div>
+</body>
+
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
+      onlyCover: true,
+      coverpage: true,
+      themeColor: '#C65D24',
       name: '',
       repo: ''
     }
   </script>
   <!-- Docsify v4 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//unpkg.com/docsify"></script>
 </body>
+
 </html>

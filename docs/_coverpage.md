@@ -2,6 +2,7 @@
 
 # TOE创新实验室 
 
+[培训计划](/Training_program.md)
 [文档中心](/doc.md)
 [资源站](/doc.md)
 

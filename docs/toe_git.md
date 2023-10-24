@@ -63,6 +63,7 @@
 * [官方文档ROS2 humble doc](https://docs.ros.org/en/humble/index.html)
 
 ### STM32
+* [野火stm32 HAL](https://www.bilibili.com/video/BV18X4y1M763/?spm_id_from=333.337.search-card.all.click&vd_source=d4d9b7c77540e26487d91a7ef6940e3a)
 * [江科大stm32](https://www.bilibili.com/video/BV1th411z7sn?p=1&vd_source=acde323adb950583a6b8e6f56ff7e0cb)
 
 ### MarkDown

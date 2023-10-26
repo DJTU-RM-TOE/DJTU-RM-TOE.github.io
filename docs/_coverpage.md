@@ -5,6 +5,7 @@
 [培训计划](/Training_program.md)
 [文档中心](/doc.md)
 [资源站](/toe_git.md)
+[学习路线](/mind.html)
 
 <!-- 这个是封面背景图，不配置的话，是随机的颜色 -->
 ![](_media/back.JPG)

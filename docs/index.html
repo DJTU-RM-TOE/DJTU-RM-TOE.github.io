@@ -23,6 +23,14 @@
   <div id="app">...</div>
   <script>
     window.$docsify = {
+      hook.beforeEach(
+          function (mdstr) {
+            const editUrl = 'https://gitee.com/xsro/college-notes/blob/main/' + vm.route.file;
+            const prefix = document.location.pathname.endsWith('/') ? '' : '..';
+            const markmapUrl = new URL(prefix + 'mind.html', document.location);
+            const markdownUrl = new URL(prefix + vm.route.file, document.location);
+            return `[  EDIT DOCUMENT](${editUrl})\t[ MARKMAP](${markmapUrl}?md=${markdownUrl})\n` + mdstr;
+          }
       mergeNavbar: false,
       logo: '/_media/logo.JPG',
       maxLevel: 3,

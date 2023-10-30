@@ -75,6 +75,10 @@
 
 * [docker基本用法](https://www.runoob.com/docker/docker-tutorial.html)
 
+### 控制相关
+
+* [c++动力学工具箱OCS2](https://github.com/leggedrobotics/ocs2)
+
 ### 绝大多数的软件可以在这里找到
 
 - [软件共享管家](https://mp.weixin.qq.com/s/UBQ90ELYbTLMPzeLQhYk2g)

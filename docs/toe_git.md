@@ -59,6 +59,7 @@
 
 ### ROS2
 
+* [鱼香ROS(内有一键安装脚本)](https://fishros.com/)
 * [赵虚左ROS2理论与实践](https://www.bilibili.com/video/BV1VB4y137ys/?spm_id_from=333.337.search-card.all.click&vd_source=d4d9b7c77540e26487d91a7ef6940e3a)
 * [官方文档ROS2 humble doc](https://docs.ros.org/en/humble/index.html)
 

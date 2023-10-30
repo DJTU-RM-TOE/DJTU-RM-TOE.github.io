@@ -77,6 +77,7 @@
 
 ### 控制相关
 
+* [mujoco仿真](https://mujoco.readthedocs.io/en/latest/XMLreference.html#option-flag)
 * [c++动力学工具箱OCS2](https://github.com/leggedrobotics/ocs2)
 
 ### 绝大多数的软件可以在这里找到

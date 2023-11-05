@@ -44,6 +44,7 @@
 
 先学习c语言，c学习完毕后可以先选择学习难度较低的arduino或者直径进行stm32hal库的学习。
 
+- [菜鸟教程](https://www.runoob.com/cprogramming/c-tutorial.html)
 - [郝斌C语言自学教程》](https://www.bilibili.com/video/BV1os411h77o?p=1&vd_source=acde323adb950583a6b8e6f56ff7e0cb)
 - [小甲鱼《带你学C带你飞》](https://www.bilibili.com/video/BV17s411N78s/?spm_id_from=333.999.0.0&vd_source=acde323adb950583a6b8e6f56ff7e0cb)
 

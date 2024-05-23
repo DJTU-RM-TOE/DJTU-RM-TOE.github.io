@@ -19,6 +19,8 @@
 
 * [RoboMaster2022 TOE 实验室视觉项目](https://gitee.com/cheakf/RoboMaster2022_visual_program)
 * [RoboMaster2023 雷达站（半成品）](https://github.com/DJTU-RM-TOE/TOE-rm-radar "radar_page")
+* [Robomaster2023 大符识别训练程序](https://github.com/pitlst/TOE-yolov7-obb-robomaster2023)
+* [Robomaster2023 自瞄](https://github.com/pitlst/toe_aimbot_2023)
 
 ## 优秀博主汇总
 ### bilibili博主

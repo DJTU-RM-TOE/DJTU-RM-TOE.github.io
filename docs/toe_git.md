@@ -21,6 +21,7 @@
 * [RoboMaster2023 雷达站（半成品）](https://github.com/DJTU-RM-TOE/TOE-rm-radar "radar_page")
 * [Robomaster2023 大符识别训练程序](https://github.com/pitlst/TOE-yolov7-obb-robomaster2023)
 * [Robomaster2023 自瞄](https://github.com/pitlst/toe_aimbot_2023)
+* [Robomaster2018 视觉](https://github.com/SEU-SuperNova-CVRA/Robomaster2018-SEU-OpenSource)
 
 ## 优秀博主汇总
 ### bilibili博主
